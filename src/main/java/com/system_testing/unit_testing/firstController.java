@@ -8,6 +8,6 @@ public class firstController {
 
   @GetMapping("/start")
   public String first_api() {
-    return "Welcome to my first API project - I changed my directory";
+    return "Welcome to my first API project - I have made my first commit. Want to see the effect after commit on git";
   }
 }
